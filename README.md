@@ -1,4 +1,4 @@
-# Davis Rowan V - Portfolio Website
+# Davis Rowan V - Portfolio Website (Vibe Coding using Cursor)
 
 A modern, responsive portfolio website showcasing my work as a Mechanical Engineering student.
 
@@ -101,3 +101,4 @@ This portfolio is open source and available for personal use.
 ---
 
 Built with ❤️ by Davis Rowan V
+
